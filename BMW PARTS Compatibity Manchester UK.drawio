@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1KAP1oz9Czl0J5ntxcYz-1" value="BMW Series 1 2006" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KAP1oz9Czl0J5ntxcYz-2" value="BMW Series 1 2005" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KAP1oz9Czl0J5ntxcYz-4" value="BMW X5 2005" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KAP1oz9Czl0J5ntxcYz-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="1KAP1oz9Czl0J5ntxcYz-8" target="1KAP1oz9Czl0J5ntxcYz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
