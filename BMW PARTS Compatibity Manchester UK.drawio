@@ -70,7 +70,7 @@
             <mxPoint x="827" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eu6nKN8PCRjFxfVqbrNm-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;BMW Car Part Compatibity Cheat Sheet&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Eu6nKN8PCRjFxfVqbrNm-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;BMW Car Part Compatibility Cheat Sheet&lt;/h1&gt;&lt;p&gt;Use this to see if the part is compatible with your car.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-130" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
